@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_seo_information_seos",
+  "info": {
+    "displayName": "seo"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "string"
+    }
+  }
+}
